@@ -1,4 +1,0 @@
----
-permalink: /about/
----
-# Heading deneme
