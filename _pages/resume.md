@@ -1,6 +1,7 @@
 ---
-permalink: /resume
+permalink: /resume/
 ---
+
 ## Education
 * *2019 - 2022*  
         &nbsp; <small> M.Sc., **Computer Engineering** </small> <br>

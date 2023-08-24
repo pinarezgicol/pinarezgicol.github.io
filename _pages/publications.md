@@ -1,5 +1,5 @@
 ---
-permalink: /publications
+permalink: /publications/
 ---
 Full list of publications can be accessed in [Google Scholar](https://scholar.google.com.tr/citations?hl=tr&view_op=list_works&gmla=AOV7GLNFHrr_3FrzoPBpIsk3D8U4DENbtyovDQTi8I2mH9Fb6EUAY9NkDWEajx5QNRN_L8CSWz5dNwBxxLIPoLsTDXctzqeqYQ&user=ul3uklwAAAAJ)
 ## Published Papers
