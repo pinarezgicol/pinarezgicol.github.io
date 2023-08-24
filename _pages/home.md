@@ -1,6 +1,7 @@
 ---
 permalink: /
 ---
+<br>
 # About Me
 <small>Hi! I am a Computer Engineer who is currently working at the Central Bank of Turkey as a Full-Stack Software Engineer. Prior to that, I worked at Turkish Aerospace as a Data Scientist and at Havelsan as a Software Engineer.</small>
 
