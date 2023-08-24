@@ -1,8 +1,7 @@
 ---
 permalink: /resume/
 ---
-
-## Education
+# Education
 * *2019 - 2022*  
         &nbsp; <small> M.Sc., **Computer Engineering** </small> <br>
         &nbsp; <small> Middle East Technical University (METU), Ankara, Turkey </small> <br>
@@ -14,7 +13,7 @@ permalink: /resume/
         &nbsp; <small> Bilkent University, Ankara, Turkey </small> <br>
         &nbsp; <small> GPA: 3.77 </small> <br>
         
-## Work Experience
+# Work Experience
 * *2021 May - Present*  
         &nbsp; <small> **Full-Stack Software Engineer** </small> <br>
         &nbsp; <small> Central Bank of Turkish Republic </small> <br>
